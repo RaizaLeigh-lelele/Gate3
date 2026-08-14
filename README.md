@@ -59,3 +59,5 @@ After:
 <!-- Any other information reviewers should know -->
 
 (Optional - add any extra context, questions, or concerns)
+
+- Deliverables: https://docs.google.com/document/d/17zZdt08BNc5rSl2fRmoqbIMY9wv1MiYx_RFsXAgqRYo/edit?usp=sharing
